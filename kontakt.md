@@ -151,4 +151,3 @@ Har du en fråga eller kommentar nu direkt? Fyll i formuläret nedan så svarar 
     $("#pfg-fieldwrapper .field").removeAttr('data-uid');
   });
 </script>
-</div>
