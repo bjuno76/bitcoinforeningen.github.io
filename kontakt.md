@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Kontakt
 permalink: /kontakt
 ---
 
 Det finns flera sätt att kommunicera med Svenska Bitcoinföreningen.
+
 - Epost: <info@bitcoinforeningen.se>
 - Facebook: [Svenska Bitcoinföreningen](https://www.facebook.com/groups/1604809299764297)
 - Twitter: [Svenska Bitcoinföreningen](https://www.twitter.com/btcforeningen)
