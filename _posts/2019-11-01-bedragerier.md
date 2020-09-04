@@ -3,7 +3,6 @@ layout: post
 title: Bedrägerier
 ---
 
-## Bedrägerier
 Vi i Bitcoinföreningen kontaktas ofta av människor som blivit lurade på ibland riktigt stora summor pengar. De har trott att de köpt Bitcoin eller andra kryptovalutor, eller gjort investeringar som lovat skyhög avkastning, men visat sig bara vara pyramidspel som kollapsat. I denna artikel ska vi ge tips på hur man kan identifiera bedrägerier, och hur man ska göra om man på riktigt är intresserad av att köpa Bitcoin eller andra kryptovalutor.
 
 ## Hur köper man kryptovalutor
