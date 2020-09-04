@@ -1,4 +1,9 @@
-Välkommen till Svenska Bitcoinföreningen
+---
+layout: page
+title: About
+permalink: /about/
+---
+### Välkommen till Svenska Bitcoinföreningen
 
 Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. Vi tror att alla skulle gynnas av att det blir snabbare, enklare och billigare att skicka pengar till grannen, till släktingen på Nya Zeeland, vid köp på nätet eller i vanliga affärer. Dagens system med banköverföringar, kort, säkerhetsdosor, PayPal och Western Union är ofta dyra, långsamma och onödigt komplexa. Detta område av vår ekonomi är i stora delar kvar på 1900-talet och vi ser att det nu är moget att möta internet på riktigt.
 
