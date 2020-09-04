@@ -1,0 +1,21 @@
+Välkommen till Svenska Bitcoinföreningen
+
+            <p>Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. 
+Vi tror att alla skulle gynnas av att det blir snabbare, enklare och billigare att skicka pengar till grannen, till 
+släktingen på Nya Zeeland, vid köp på nätet eller i vanliga affärer. Dagens system med banköverföringar, kort, 
+säkerhetsdosor, PayPal och Western Union är ofta dyra, långsamma och onödigt komplexa. Detta område av vår ekonomi är 
+i stora delar kvar på 1900-talet och vi ser att det nu är moget att möta internet på riktigt.</p> <p>Bitcoin är ett 
+radikalt nytt sätt att se på hur man skickar pengar. Det finns ingen central organisation som övervakar 
+överföringarna. Istället är det ett peer-to-peer nätverk som sparar överföringarna och kontrollerar att de är 
+giltiga. Förutom att det är tekniskt komplext på ett helt annat sätt än dagens system, så ställer det nya krav på 
+vårt samhälle.<br /><br /> Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur det fungerar, avliva 
+alla de myter som finns, och hjälpa till att se hur vår nuvarande lagstiftning på ett rimligt sätt kan anpassas till 
+en värld med digitala valutor. <br /><br /> Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många 
+av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer. Kontakta gärna 
+föreningens ordförande <a class="email-link" href="mailto:anders.brun@gmail.com?subject=Bitcoinföreningen" 
+target="_blank" title="Anders Brun">Anders Brun</a>. Kan inte vi direkt svara på dina frågor så vänder vi oss till 
+några av våra internationella kontakter. <br /><br />För att bli medlem fyller du i <a class="external-link" 
+href="ansoekan.html" target="_self" title="Bli medlem">formuläret</a>. Medlemskap är gratis men man får betala 
+medlemsavgift om man vill. Läs gärna igenom våra <a title="" href="protokoll/stadgar" class="internal-link" 
+target="_self">stadgar</a>. Vi har gjort vårt bästa för att de ska vara så enkla som möjligt.<br /><br /></p>
+
