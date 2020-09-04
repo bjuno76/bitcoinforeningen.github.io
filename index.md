@@ -10,6 +10,6 @@ Bitcoin är ett radikalt nytt sätt att se på hur man skickar pengar. Det finns
 
 Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur det fungerar, avliva alla de myter som finns, och hjälpa till att se hur vår nuvarande lagstiftning på ett rimligt sätt kan anpassas till en värld med digitala valutor.
 
-Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer. Kontakta gärna föreningens ordförande Anders Brun. Kan inte vi direkt svara på dina frågor så vänder vi oss till några av våra internationella kontakter.
+Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer. Kontakta gärna föreningens ordförande [Anders Brun](anders.brun@gmail.com). Kan inte vi direkt svara på dina frågor så vänder vi oss till några av våra internationella kontakter.
 
-För att bli medlem fyller du  i formuläret. Medlemskap är gratis men man får betala medlemsavgift om man vill. Läs gärna igenom våra stadgar. Vi har gjort vårt bästa för att de ska vara så enkla som möjligt.
+För att bli medlem fyller du  i [formuläret](/ansoekan). Medlemskap är gratis men man får betala medlemsavgift om man vill. Läs gärna igenom våra [stadgar](/protokoll). Vi har gjort vårt bästa för att de ska vara så enkla som möjligt.
