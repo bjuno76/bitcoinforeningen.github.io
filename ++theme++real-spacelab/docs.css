@@ -1,0 +1,82 @@
+/* Effective stylesheet produced by snapshot save */
+body { position: relative; padding-top: 10px; background-repeat: repeat-x; background-position: 0px 40px; }
+.blog-item .documentFirstHeading, h2.headline {font-size:14px; font-weight: bold}
+th {text-align: left; vertical-align:top;padding-right:20px}
+.eventDetails {
+    border-color: #CCCCCC;
+    border-style: solid;
+    border-width: 0.08em;
+    margin-left:1em;
+    padding-left:1em;
+    width: 22em;
+}
+.eventDetails {
+    clear: right;
+    float: right;
+}
+div.eventDetails table {padding:2em}
+
+.visualClear {
+    clear: both;
+}
+
+.eventDetails td, .eventDetails th {padding-top:4px}
+.jumbotron { position: relative; }
+.jumbotron h1 { margin-bottom: 9px; font-size: 81px; font-weight: bold; letter-spacing: -1px; line-height: 1; }
+.jumbotron p { margin-bottom: 18px; font-weight: 300; }
+.jumbotron .btn-large { font-size: 20px; font-weight: normal; padding: 14px 24px; margin-right: 10px; border-radius: 6px 6px 6px 6px; }
+.jumbotron .btn-large small { font-size: 14px; }
+.subhead { padding-bottom: 0px; margin-bottom: 9px; }
+.subhead h1 { font-size: 54px; }
+.subnav { margin-bottom: 60px; width: 100%; height: 36px; background-color: rgb(238, 238, 238); background-repeat: repeat-x; background-image: -moz-linear-gradient(center top , rgb(245, 245, 245) 0%, rgb(238, 238, 238) 100%); border: 1px solid rgb(229, 229, 229); border-radius: 4px 4px 4px 4px; }
+.subnav .nav { margin-bottom: 0px; }
+.subnav .nav > li > a { margin: 0px; padding-top: 11px; padding-bottom: 11px; border-left: 1px solid rgb(245, 245, 245); border-right: 1px solid rgb(229, 229, 229); border-radius: 0px 0px 0px 0px; }
+.subnav .nav > .active > a, .subnav .nav > .active > a:hover { padding-left: 13px; color: rgb(119, 119, 119); background-color: rgb(233, 233, 233); border-right-color: rgb(221, 221, 221); border-left: 0px none; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.05) inset; }
+.subnav .nav > .active > a .caret, .subnav .nav > .active > a:hover .caret { border-top-color: rgb(119, 119, 119); }
+.subnav .nav > li:first-child > a, .subnav .nav > li:first-child > a:hover { border-left: 0px none; padding-left: 12px; border-radius: 4px 0px 0px 4px; }
+.subnav .nav > li:last-child > a { border-right: 0px none; }
+.subnav .dropdown-menu { border-radius: 0px 0px 4px 4px; }
+.subnav a {text-decoration:none}
+@media (min-width: 980px) {
+  .subnav-fixed { position: fixed; top: 40px; left: 0px; right: 0px; z-index: 1020; border-color: rgb(213, 213, 213); border-width: 0px 0px 1px; border-radius: 0px 0px 0px 0px; box-shadow: 0px 1px 0px rgb(255, 255, 255) inset, 0px 1px 5px rgba(0, 0, 0, 0.1); }
+  .subnav-fixed .nav { width: 938px; margin: 0px auto; padding: 0px 1px; }
+  .subnav .nav > li:first-child > a, .subnav .nav > li:first-child > a:hover { border-radius: 0px 0px 0px 0px; }
+}
+.bsa { float: right; max-width: 400px; padding: 0px; }
+body .one .bsa_it_ad { margin-bottom: -10px; background: none repeat scroll 0% 0% transparent; border: medium none; font-family: inherit; color: inherit; }
+body .one .bsa_it_ad .bsa_it_t, body .one .bsa_it_ad .bsa_it_d { color: inherit; font-size: inherit; }
+body .one .bsa_it_p { display: none; }
+#bsap_aplink { float: right; position: relative; right: 10px; height: 0px; font-size: 11px; }
+@media (max-width: 768px) {
+  .bsa { float: none; }
+}
+@media (max-width: 480px) {
+  body { padding-top: 70px; }
+  .jumbotron h1, .jumbotron p { text-align: center; margin-right: 0px; }
+  .jumbotron h1 { font-size: 45px; margin-right: 0px; }
+  .jumbotron p { margin-right: 0px; margin-left: 0px; font-size: 18px; line-height: 24px; }
+  .jumbotron .btn { display: block; font-size: 18px; padding: 10px 14px; margin: 0px auto 10px; }
+}
+@media (max-width: 768px) {
+  body { padding-top: 0px; }
+  .jumbotron .btn { margin-bottom: 10px; }
+  .subnav { position: static; top: auto; z-index: auto; width: auto; height: auto; background: none repeat scroll 0% 0% rgb(255, 255, 255); box-shadow: none; }
+  .subnav .nav > li { float: none; }
+  .subnav .nav > li > a { border: 0px none; }
+  .subnav .nav > li + li > a { border-top: 1px solid rgb(229, 229, 229); }
+  .subnav .nav > li:first-child > a, .subnav .nav > li:first-child > a:hover { border-radius: 4px 4px 0px 0px; }
+}
+@media (min-width: 480px) and (max-width: 768px) {
+  .jumbotron h1 { font-size: 54px; }
+  .jumbotron p { margin-right: 0px; margin-left: 0px; }
+}
+@media (min-width: 768px) and (max-width: 980px) {
+  body { padding-top: 0px; }
+  .jumbotron h1 { font-size: 72px; }
+}
+@media (max-width: 980px) {
+  .navbar-fixed-top .brand { float: left; margin-left: 0px; padding-left: 10px; padding-right: 10px; }
+}
+@media (min-width: 1210px) {
+  .subnav-fixed .nav { width: 1168px; }
+}
