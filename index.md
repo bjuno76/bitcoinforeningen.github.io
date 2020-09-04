@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hem
+permalink: /
 ---
 ### Välkommen till Svenska Bitcoinföreningen
 
