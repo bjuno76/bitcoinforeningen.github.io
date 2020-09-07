@@ -7,6 +7,7 @@ Bitcoin är en ny typ av valuta som kan användas över internet från en dator,
 
 När man idag skickar bitcoin till någon så gör man det till en adress som man vanligtvis kopierat från ett email eller en webbsida. De ser exempelvis ut såhär:
     1CfqP4sk7y1UENVnMAQPhBye7wD8EShDUN
+
 De är en bit längre än ett Bankgiro- eller bankkontonummer, men adresserna har en checksumma, så det går inte att skriva fel. Dessutom ser adresserna likadana ut oberoende om du skickar pengar till din granne, ett café på stan, eller en släkting på Nya Zeeland. Pengarna är som oftast framme inom några sekunder, och det är i stort sett gratis. Jämför man med hur komplicerat det är idag att skicka pengar utomlands så är det befriande enkelt, snabbt och billigt med Bitcoin.
 
 Alla adresser hör till en plånbok. Det finns många olika typer av plånböcker. De har olika för- och nackdelar. Innan du placerar alltför mycket pengar i en Bitcoin-plånbok så rekommenderar vi att du läser på lite, eller hör dig för med oss. På bitcoin.org listar de några <a href="http://bitcoin.org/en/choose-your-wallet">rekommenderade plånböcker</a>.
