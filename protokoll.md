@@ -14,9 +14,9 @@ Nedan är en lista över styrelsemöten i Bitcoinföreningen. Medlemmar har äve
 möjlighet att ta del av styrelseprotokoll. Kontakta i så fall <info@bitcoinforeningen.se> för mer information om det.
 
 - 2013
-* 2013-12-04
-* 2013-12-20
-* 2013-12-30
+  - 2013-12-04
+  - 2013-12-20
+  - 2013-12-30
 - 2014
 - 2015
 - 2016
