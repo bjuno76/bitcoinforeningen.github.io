@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Stadgar & Protokoll
+title: Dokument
 permalink: /protokoll
 ---
 
-Stadgar
-d
+## Stadgar
+
 [Bitcoinföreningens stadgar 2013-12-04](public/stadgar_20131204.pdf)
 
 ## Protokoll
