@@ -6,7 +6,7 @@ permalink: /protokoll
 
 # Stadgar
 
-[Bitcoinföreningens stadgar 2013-12-04](//public_documents/stadgar_20131204.pdf)
+[Bitcoinföreningens stadgar 2013-12-04](/public/stadgar_20131204.pdf)
 
 # Protokoll
 
