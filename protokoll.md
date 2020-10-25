@@ -4,7 +4,7 @@ title: Stadgar & Protokoll
 permalink: /protokoll
 ---
 
-## Stadgar
+Stadgar
 
 [Bitcoinföreningens stadgar 2013-12-04](public/stadgar_20131204.pdf)
 
