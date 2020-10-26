@@ -11,6 +11,7 @@ permalink: /
 - [2019-07-05, Trijo: Svenska bitcoinföreningens nya ordförande](https://news.trijo.co/nyheter/svenska-bitcoinforeningens-nya-ordforande-katastrof-om-bitcoin-forbjuds-i-sverige/)
 - [2019-12-11, Trijo: Sverige är hopplöst efter i den finansiella revolutionen](https://news.trijo.co/debatt/sverige-ar-hopplost-efter-i-den-finansiella-revolutionen-har-ar-tre-konkreta-forslag-for-att-komma-ikapp/)
 
+Allmänt:
 Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. Vi tror att alla skulle gynnas av att det blir snabbare, enklare och billigare att skicka pengar till grannen, till släktingen på Nya Zeeland, vid köp på nätet eller i vanliga affärer. Dagens system med banköverföringar, kort, säkerhetsdosor, PayPal och Western Union är ofta dyra, långsamma och onödigt komplexa. Detta område av vår ekonomi är i stora delar kvar på 1900-talet och vi ser att det nu är moget att möta internet på riktigt.
 
 Bitcoin är ett radikalt nytt sätt att se på hur man skickar pengar. Det finns ingen central organisation som övervakar överföringarna. Istället är det ett peer-to-peer nätverk som sparar överföringarna och kontrollerar att de är giltiga. Förutom att det är tekniskt komplext på ett helt annat sätt än dagens system, så ställer det nya krav på vårt samhälle.
