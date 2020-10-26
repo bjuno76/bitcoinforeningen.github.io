@@ -11,7 +11,7 @@ permalink: /protokoll
 ## Årsstämmor
 
 Nedan är en lista över årsmöten i Bitcoinföreningen. Medlemmar har även
-möjlighet att ta del av årsmötesprotokoll. Kontakta i så fall <info@bitcoinforeningen.se> för mer information om det.
+möjlighet att ta del av årsmötesprotokoll. Kontakta i så fall <styrelsen@bitcoinforeningen.se> för mer information om det.
 
 - 2014-03-09
 - 2015-03-21
@@ -24,7 +24,7 @@ möjlighet att ta del av årsmötesprotokoll. Kontakta i så fall <info@bitcoinf
 ## Protokoll
 
 Nedan är en lista över styrelsemöten i Bitcoinföreningen. Medlemmar har även
-möjlighet att ta del av styrelseprotokoll. Kontakta i så fall <info@bitcoinforeningen.se> för mer information om det. Du kan även kontakta styrelsen om det är något ärenden du tycker bör tas upp för diskussion eller beslut på ett styrelsemöte.
+möjlighet att ta del av styrelseprotokoll. Kontakta i så fall <styrelsen@bitcoinforeningen.se> för mer information om det. Du kan även kontakta styrelsen om det är något ärenden du tycker bör tas upp för diskussion eller beslut på ett styrelsemöte.
 
 - 2013
   - 2013-12-04
