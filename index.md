@@ -5,7 +5,10 @@ permalink: /
 ---
 
 ### Senaste Nytt:
-- https://www.svt.se/nyheter/ekonomi/kinas
+- [CS: PayPal öppnar upp Bitcoin för 346 miljoner användare](https://computersweden.idg.se/2.2683/1.741512/paypal-bitcoin)
+- [CS: Nu växlar bitcoin tidsålder – ersättningen till grävarna halveras](https://computersweden.idg.se/2.2683/1.734369/bitcoin-ersattning-halveras)
+- [SVT: Kinesiska mullranden oroar bitcoinbörs](https://www.svt.se/nyheter/ekonomi/kinas)
+
 
 Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. Vi tror att alla skulle gynnas av att det blir snabbare, enklare och billigare att skicka pengar till grannen, till släktingen på Nya Zeeland, vid köp på nätet eller i vanliga affärer. Dagens system med banköverföringar, kort, säkerhetsdosor, PayPal och Western Union är ofta dyra, långsamma och onödigt komplexa. Detta område av vår ekonomi är i stora delar kvar på 1900-talet och vi ser att det nu är moget att möta internet på riktigt.
 
