@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dokument
+title: Bitcoinföreningens Dokument
 permalink: /protokoll
 ---
 
