@@ -7,6 +7,7 @@ permalink: /
 ### Senaste Nytt:
 - [2020-10-22, CS: PayPal öppnar upp Bitcoin för 346 miljoner användare](https://computersweden.idg.se/2.2683/1.741512/paypal-bitcoin)
 - [2020-05-10, CS: Nu växlar bitcoin tidsålder](https://computersweden.idg.se/2.2683/1.734369/bitcoin-ersattning-halveras)
+- [2020-02-09, YA: Bitcoin över drömgränsen: "Optimismen ökar"](https://www.ystadsallehanda.se/nyheter/bitcoin-over-dromgransen-optimismen-okar/)
 - [2019-11-27, SVT: Kinesiska mullranden oroar bitcoinbörs](https://www.svt.se/nyheter/ekonomi/kinas)
 - [2019-07-05, Trijo: Svenska bitcoinföreningens nya ordförande](https://news.trijo.co/nyheter/svenska-bitcoinforeningens-nya-ordforande-katastrof-om-bitcoin-forbjuds-i-sverige/)
 - [2019-12-11, Trijo: Sverige är hopplöst efter i den finansiella revolutionen](https://news.trijo.co/debatt/sverige-ar-hopplost-efter-i-den-finansiella-revolutionen-har-ar-tre-konkreta-forslag-for-att-komma-ikapp/)
